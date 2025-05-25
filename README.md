@@ -92,7 +92,7 @@ This tool is for educational and research purposes only. The author does not enc
 
 ## 🧑‍💻 Author
 
-* Built by [GitHub/sohel22z](https://github.com/sohel22z)
-* GitHub: [LinkedIn/sohelansarii](https://linkedin.com/in/sohelansarii)
+* Built by [sohel22z](https://github.com/sohel22z)
+* LinkedIn: [LinkedIn/sohelansarii](https://linkedin.com/in/sohelansarii)
 
 ---
